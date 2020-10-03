@@ -125,13 +125,13 @@ body {
   width: 22%;
   float: left;
   max-width: 100%;
-  margin-left: 20px; }
+  margin-left: 2%; }
 
 .box-image a, .box-image img {
   display: block; }
 
 .box-image + .box-image {
-  margin-left: 34px; }
+  margin-left: 4%; }
 
 #blog-updates {
   width: 69%;
