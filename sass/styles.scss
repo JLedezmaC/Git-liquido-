@@ -2,12 +2,15 @@
 
 @import './components/_mixin.scss';
 
-@import './components/nesting';
+@import './components/_nesting';
 
 @import './components/_main_content.scss';
 
 @import './components/_footer.scss';
 
-@import './components/colors';
+@import './components/_colors';
 
-@import './components/header';
+@import './components/_header';
+
+@import './components/central';
+
